@@ -239,13 +239,13 @@ body {
 .add-category-btn {
     width: 2.5rem;
     height: 2.5rem;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(218,95,12,0.823);
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    color: white;
+    color: #e6e6e6;
     transition: all 0.3s ease;
 }
 
@@ -817,4 +817,5 @@ input:checked+.slider:before {
 .black-backdrop.active {
     opacity: 1;
     visibility: visible;
+
 }
